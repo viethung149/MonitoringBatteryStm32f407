@@ -1,0 +1,10 @@
+DebugConfig/
+Listings/
+Objects/
+RTE/
+STM32F4xx_StdPeriph_Driver/
+*.Admin
+*.uvoptx
+*.uvprojx
+*.scvd
+
